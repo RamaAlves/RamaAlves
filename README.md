@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Ramiro Alves from Chaco, Argentina 🌎. <br><br>
-I would tell you a little bit about myself:<br>
-I like programming 👨‍💻, watching movies, series 📽, playing video games 🎮.<br>
-Love anime 🗾 and coffee ☕.<br>
-Paying music 🎸🎻 and singing 🎙 are among my biggest passions.<br>
-In my free time I like to learn new things and solve problems ⏳.<br>
-I am currently working as a music professor 👨🏻‍🏫🎼 and I am studying programming in INFORMATORIO 💡.<br><br>
-In the future I would like to be able to dedicate myself professionally to programming.<br>
-Everything I learn about programming can be found here!<br>
+I'm Ramiro Alves from Chaco, Argentina 🌎. <br><br>
+I'll tell you a little bit about myself:<br>
+I like programming 👨‍💻, watching movies, series 📽 and playing video games 🎮.<br>
+I love anime 🗾 and coffee ☕.<br>
+I playing music 🎸🎻 and singing 🎙 are some of my biggest passions.<br>
+In my free time I like to learn new things and solve programming problems ⏳.<br>
+I'm currently working as a music professor 👨🏻‍🏫🎼 and I'm studying programming in INFORMATORIO and PIXEL LAB 💡.<br><br>
+In the future I'd like to be able to dedicate myself professionally to programming.<br>
+Everything I learning about programming you will find here!<br>
 And the rest of my life can be found on instagram: https://www.instagram.com/ramiro_alves_/
