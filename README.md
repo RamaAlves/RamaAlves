@@ -23,4 +23,4 @@ In my free time I like to learn new things and solve programming problems ⏳.<b
 I'm currently working as a music professor 👨🏻‍🏫🎼 and I'm studying programming in INFORMATORIO and PIXEL LAB 💡.<br><br>
 In the future I'd like to be able to dedicate myself professionally to programming.<br>
 Everything I learning about programming you will find here!<br>
-And the rest of my life can be found on instagram: https://www.instagram.com/ramiro_alves_/
+And the rest of my life can be found on instagram [@ramiro_alves_](https://www.instagram.com/ramiro_alves_/)
